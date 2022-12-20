@@ -8,7 +8,7 @@ function NFTDropPage() {
     const disconnect = useDisconnect();
 
     console.log(address)
-
+    //update nih
 
   return (
     <div className='flex h-screen flex-col lg:grid lg:grid-cols-10'>
